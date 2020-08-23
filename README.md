@@ -1,4 +1,4 @@
-# NSS E12  Group Exercise - Star Wars Chat
+# NSS E12  Group Exercise - Bozo University
 
 ## Description:
 The objective of the group project was to create an admin dashboard for Bozo University. The app features full CRUD and uses join tables to allow all data to interact. Project data and hosting via Firebase.
